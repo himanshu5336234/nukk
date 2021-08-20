@@ -1,0 +1,46 @@
+
+@media screen and (max-width:900px)
+{ body{margin: 0%;}
+.hamburger-line{background-color: black;}
+#cover{ padding: 0px;}
+#ABOUT {height: 170vh;}
+header{  position:relative;width: 100%; margin: 0px;}
+#botm{ bottom: -30%; width:100%; padding: 2% 0%; }
+#b{display: none;}
+#h-p-wrapper{ left: 4%;}
+#SERVICES{ height: 100vh;padding-top: 20%; }
+#h-p h1{font-size:40px;}
+#four-ftr h1{ font-size: 32px;}
+#four-ftr p {font-size: 15px;margin-bottom: 15px;}
+#h-p p{font-size:15px;}
+#client-left{width: 100%;}
+#client{height: 210vh; width: 100%;display: flex; flex-direction: column;}
+#client-right{height: 110vh;width: 100%;margin-top: 50px;}
+#right-left,#right-right{justify-content: space-between;}
+.log{ height: 85px; padding: 0px 15px;} 
+.icon-wrapper{bottom:0px ; }
+.nav-line{display: none;}
+.head h1{font-size: 80px;}
+.head h2{ font-size: 32px;line-height: 40px;left: 25px;top: -10px;}
+.card-right,.card-left {   height: 45%;}
+.circle {left: 150px;}
+#main-head {padding: 60px 0px;margin: 0px;}
+footer {height: 86vh;}
+#footer-head {height: 21vh;}
+#footer-main {height: 65vh;}
+#footer-logo { padding: 20px 0px;}
+#ABOUT { height: 110vh;}
+#footer-logo a {   width: 12%;}
+ #PROJECTS {    height: 445vh;}
+ #three-img {  height: 50vh;}
+ #SERVICES {height: 60vh;}
+ .news-card {  height: 60vh;}
+#BLOG { height: 77vh;}
+  .popup {
+    
+    height: 34vh;}
+  .image-circle {
+    padding: 10px}
+
+
+}

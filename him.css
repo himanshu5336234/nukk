@@ -1,0 +1,67 @@
+@media screen and (max-width:600px ) {
+    #HOME {
+        height: 104vh;
+    }
+    #botm {  bottom: -30%;  padding: 0% ; }
+    #cover { height: 80vh;}
+   #h-p-wrapper {     left: 5%;    top: 40%;  } 
+    #b{      height: 70px;  }
+    #ABOUT { height: 180vh;}
+    #SERVICES {height: 150vh;padding-top: 10%; }
+    #three-img, #three-para {
+        width: 90%;
+        margin: 10% 0%;
+        height: 50vh;}
+#ABOUT-wrapper { flex-direction: column;}
+#btn a { padding: 20px;font-size: 15px;}
+#btn {    margin-top: 70px;}
+#four-ftr {height: 20vh;padding-top: 6%;}
+.ftr-child h1 {   font-size: 15px;}
+#four-ftr h1 { font-size: 18px;  line-height: 45px; letter-spacing: 2px;}
+#four-ftr p { margin-top: 0px;font-size: 12px;margin-bottom: 13px;}
+#team-mem{height: 400vh; align-items: center; margin: 0px;justify-content: space-around;flex-direction: column;}
+ 
+ #PROJECTS {margin: 0px;        height: 700vh;}
+ nav{     height: 70px; }
+ .log{ height: 70px;}
+  .log img{width: 70px;}
+  .ftr-child img {width: 30px;}
+
+  #image-container {
+    width: 100%;
+    margin-bottom: 10px;
+    position: relative;
+    display: inline-flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.popup {
+    height: 62vh;}
+#image-container a {
+    width: 80%;}
+ .ftr-child p {font-size: 15px;}
+ .head h1 {font-size: 50px;top: -40px;}
+ .head{margin-left: 5%;    }
+.head h2 {left: 20px;font-size: 25px; top: 0px;}
+.anchor{    font-size: 10px;}
+.mem {
+     margin: 0%; 
+    width: 80%;
+    height: 38vh;}
+.wrapper {    flex-direction: column;}
+.para { font-size: 15px; line-height: 25px;}
+.icon-wrapper {
+    padding: 15px;
+}
+#icon-wrapper-2 {
+    bottom: -44%;
+    padding:10px;}
+    #footer-logo a {
+        width: 15%;
+    }
+  .popup {
+    height: 51vh;
+}
+}           

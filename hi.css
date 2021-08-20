@@ -1,0 +1,142 @@
+@media screen and (max-width:450px){
+
+.men{
+    height: 40vh;
+
+}
+#botm{
+    display: none;
+}
+#h-p-wrapper {
+    padding: 3px 50px 0px 1px;    top: 25%;} 
+    #h-p p {
+        font-size: 20px; margin: 0px;    word-spacing: 2px;}    
+        .icon-wrapper {
+            padding: 10px;
+        }
+        #HOME {
+            height:  80vh;}
+            #SERVICES { margin: 0px;}
+            .head{
+                flex-direction: column;
+                align-items: flex-start
+            }
+            .head h1{
+                display: none; }
+                .head h2{left:0px; } 
+                .wrapper div {
+                    height: 32vh;
+                }
+                #team-mem {
+                    height: 240vh;}
+                 #SERVICES {
+                    height: 145vh;}
+                    #three-img, #three-para {
+                        width: 90%;
+                        margin: 10% 0%;
+                        height: 40vh;
+                     
+                    }
+                    #ABOUT-wrapper {
+                        margin-bottom: 30%;}
+                #para-div {
+                    margin: 10% 0% 0% 5%;
+                }
+                #ftr-num {
+                    flex-direction: column;
+                    justify-content: space-around;
+                    align-items: center;
+                }
+                #ABOUT {
+                    height: 220vh;}
+                .num-card {
+                    width: 85%;
+                    height: 25vh;
+                }
+                #image-container {
+                    flex-direction: column;
+                    align-items: center;
+                }
+                #popup, .img-wrapper {
+                    width: 100%;}
+                    #PROJECTS {
+                        height: 850vh;
+                    }
+                    #client{ align-items: center;}
+                    #client-right {
+                        
+                        display: flex;
+                        height:225vh ;
+                        width: 80%;
+                        justify-content: space-between;
+                        flex-direction: column;}
+                        .circle {
+                            left: 135px;
+                        }
+                        
+                        .card-right, .card-left {
+                            width: 100%;
+                            height: 45vh;
+                        }
+                        #right-left, #right-right {
+                            width: 100%;
+                        }
+                        #news-wrapper { flex-direction: column;
+                            align-items: center;
+                                height: 200vh;}
+                            .news-card {
+                                width: 80%;
+                                height: 60vh;}
+                            #professional {
+                                height: 250vh;
+                            }
+                            #four-ftr {
+                                height: 20vh;
+                                padding-top: 5%;}
+                                #BLOG {
+                                    height: 215vh;
+                                }
+                                
+                                #footer-head {
+                                    height: 85vh;
+                                }
+                                footer {
+                                    height: 220vh;
+                                    margin-top:0%;}
+                                    #footer-logo {
+                                        justify-content: space-evenly;
+                                    
+                                        flex-direction: column;
+                                        align-items: center;
+                                    }
+                                    #footer-logo a {
+                                        
+                                        width: 40%;}
+
+                                            #main-head {
+                                                justify-content: space-evenly;
+                                                flex-direction: column;
+                                                align-items: center;
+                                                height: 90vh;}
+                                            #footer-main {
+                                                margin: 0%;
+                                                width: 100%;
+                                                height: 135vh;
+                                            }
+                                                .footer-card {
+                                                    width: 80%;
+                                                    height: 35vh;
+                                                }
+                                                    
+                                                        .lg {
+                                                        
+                                                            align-self: flex-start;
+                                                          
+                                                            top: 10px;
+                                                            left: 28%;}
+                                        .popup {height: 43vh;}              
+                                                    
+
+
+
+}
